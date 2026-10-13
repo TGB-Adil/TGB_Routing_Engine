@@ -1,0 +1,7 @@
+requests
+pandas
+pyvis
+streamlit
+streamlit-folium
+folium
+python-dotenv
